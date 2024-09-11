@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://ouizcai.github.io/sitemap/sitemap.txt
